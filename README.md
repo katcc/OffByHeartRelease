@@ -20,4 +20,9 @@ JP - Was technically in the group, wrote some unusable dialogue, and made no sig
 4) Launch the "OffByHeart" application
 
 Note for mac: If you receive an error that states that the application is damaged, it is not. The application was simply not built for the app store, so your mac does not trust it.
-You can fix this by opening terminal and running the command: "xattr -d com.apple.quarantine [path to file]" where [path to file] is the actual file path of the application.
+
+You can fix this by opening terminal and running the command: "xattr -d com.apple.quarantine [path to file]" where [path to file] is the full file path of the application, up to and including the application.
+
+You can get the full file path by dragging the application into the terminal.
+
+Your command should look something like this example: "xattr -d com.apple.quarantine /Users/YourName/Downloads/OffByHeartMac.app"
