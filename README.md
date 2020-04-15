@@ -7,10 +7,10 @@
 Claire reflects on her relationship and decides how to move forward with her boyfriend. A visual novel for IAT 313, made with GameMaker Studio 2.
 
 ## Credit
-Kat - Programming, Story Direction, Script, Editing
-Jessica - Art Direction, Character Art, Animation
-Mike - Script, Background Art, Object Art
-JP - Was technically in the group, wrote some unusable dialogue, and made no significant contribution
+* Kat - Programming, Story Direction, Script, Editing
+* Jessica - Art Direction, Character Art, Animation
+* Mike - Script, Background Art, Object Art
+* JP - Was technically in the group, wrote some unusable dialogue, and made no significant contribution
 
 ## Instructions
 ### To run the game
