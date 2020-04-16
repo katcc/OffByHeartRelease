@@ -25,6 +25,6 @@ You can fix this by opening terminal and running the command: "xattr -d com.appl
 
 You can get the full file path by dragging the application into the terminal.
 
-Your command should look something like this example: "xattr -d com.apple.quarantine /Users/YourName/Downloads/OffByHeartMac.app"
+Your command should look something like this example (without the quotes): "xattr -d com.apple.quarantine /Users/YourName/Downloads/OffByHeartMac.app"
 
 After running the command, the application should be unlocked and you should be able to launch it by double clicking the application.
